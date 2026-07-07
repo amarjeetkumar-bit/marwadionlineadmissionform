@@ -40,7 +40,7 @@
         }
 
         .header p {
-            font-size: 16px;
+            font-size: 12;
             opacity: 0.95;
         }
 
@@ -113,7 +113,7 @@
         }
 
         textarea {
-            height: 100px;
+            height: 40px;
             resize: none;
         }
 
