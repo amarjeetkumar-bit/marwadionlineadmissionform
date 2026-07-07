@@ -40,7 +40,7 @@
         }
 
         .header p {
-            font-size: 12;
+            font-size: 16;
             opacity: 0.95;
         }
 
@@ -67,7 +67,7 @@
         }
 
         .form-subtitle {
-            font-size: 15px;
+            font-size: 12px;
             color: #000;
             margin-bottom: 10px;
             text-align: center;
